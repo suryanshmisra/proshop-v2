@@ -1,1 +1,1 @@
-# proshop-v2
+https://github.com/bradtraversy/proshop-v2
